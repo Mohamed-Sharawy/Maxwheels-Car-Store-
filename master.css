@@ -490,7 +490,7 @@ section {
 .newsletter {
     padding: 6rem 2rem;
     text-align: center;
-    background: url(../image/letter-bg.png) no-repeat;
+    background: url(image/letter-bg.png) no-repeat;
     background-position: center;
     background-size: cover;
 }
